@@ -15,7 +15,7 @@ The TCP Texting Application is a Java-based LAN chat application that allows use
 
 ### Running the Application
 1. Clone the Repository:
-`git clone https://github.com/yourusername/tcp-texting-application.git`
+`git clone https://github.com/ggwpfax/tcp-texting-application.git`
 `cd tcp-texting-application`
 
 2. Build the Project:
